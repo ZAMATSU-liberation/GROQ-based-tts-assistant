@@ -1,8 +1,8 @@
-Jarvis Voice Assistant
+# Jarvis Voice Assistant
 
 A Python-based AI voice assistant that listens for the wake word "Jarvis" and performs voice-controlled tasks such as opening websites, playing music, and answering questions using AI.
 
-Features
+## -Features-
 Wake word activation ("Jarvis")
 Speech recognition using microphone input
 Text-to-speech responses

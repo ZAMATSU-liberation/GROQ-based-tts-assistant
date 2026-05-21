@@ -1,0 +1,8 @@
+speech_recognition
+Groq module
+edge tts pygame
+requests
+dotenv
+asyncio
+os
+GROQ API KEY
